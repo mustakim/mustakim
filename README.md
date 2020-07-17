@@ -1,8 +1,5 @@
 ### Hey gorgeous 👋
 
-<!--
-**mustakim/mustakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m currently working on Angular and Node
 🌱 I’m currently learning Nrwl and 
 👯 I’m looking to collaborate on ...
