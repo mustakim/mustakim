@@ -6,7 +6,7 @@ Hi gorgeous,
 
 😄 My current stack is [Node.JS](https://nodejs.org/), [Angular](https://angular.io/)
 
-💬 Reach me on [LinkedIn](https://linkedin.com/in/mustakim).
+💬 Reach me on [LinkedIn](https://linkedin.com/in/mustakimparvez).
 
 ⚡ Fun fact is I love sleeping
 
