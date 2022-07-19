@@ -2,7 +2,7 @@
 
 Hi gorgeous,
 
-🔭 I'm currently working as a Software Engineer at [m2sys](https://www.m2sys.com/) with some aweome person
+🔭 I'm currently working as a Software Engineer at [Selise Digital Platform](https://selise.ch/) with some aweome person
 
 😄 My current stack is [Node.JS](https://nodejs.org/), [Angular](https://angular.io/)
 
